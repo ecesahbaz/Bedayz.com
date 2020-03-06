@@ -1,0 +1,2 @@
+# Bedayz.com
+rest API
