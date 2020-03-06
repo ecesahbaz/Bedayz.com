@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\bin\Debug\netcoreapp2.1\Bedayz.API.deps.json
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\bin\Debug\netcoreapp2.1\Bedayz.API.runtimeconfig.json
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\bin\Debug\netcoreapp2.1\Bedayz.API.runtimeconfig.dev.json
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\bin\Debug\netcoreapp2.1\Bedayz.API.dll
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\bin\Debug\netcoreapp2.1\Bedayz.API.pdb
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\obj\Debug\netcoreapp2.1\Bedayz.API.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\obj\Debug\netcoreapp2.1\Bedayz.API.RazorAssemblyInfo.cache
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\obj\Debug\netcoreapp2.1\Bedayz.API.RazorAssemblyInfo.cs
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\obj\Debug\netcoreapp2.1\Bedayz.API.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\obj\Debug\netcoreapp2.1\Bedayz.API.AssemblyInfo.cs
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\obj\Debug\netcoreapp2.1\Bedayz.API.RazorTargetAssemblyInfo.cache
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\obj\Debug\netcoreapp2.1\Bedayz.API.dll
+C:\Users\asus\Desktop\NESNEPROJE\src\Bedayz.API\obj\Debug\netcoreapp2.1\Bedayz.API.pdb

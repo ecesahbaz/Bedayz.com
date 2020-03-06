@@ -1,0 +1,14 @@
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\bin\Debug\netcoreapp2.1\Kahhve.API.deps.json
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\bin\Debug\netcoreapp2.1\Kahhve.API.runtimeconfig.json
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\bin\Debug\netcoreapp2.1\Kahhve.API.runtimeconfig.dev.json
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\bin\Debug\netcoreapp2.1\Kahhve.API.dll
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\bin\Debug\netcoreapp2.1\Kahhve.API.pdb
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.csprojAssemblyReference.cache
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.csproj.CoreCompileInputs.cache
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.RazorAssemblyInfo.cache
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.RazorAssemblyInfo.cs
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.AssemblyInfoInputs.cache
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.AssemblyInfo.cs
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.RazorTargetAssemblyInfo.cache
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.dll
+C:\Users\goren\Desktop\OOP2\src\Kahhve.API\obj\Debug\netcoreapp2.1\Kahhve.API.pdb
